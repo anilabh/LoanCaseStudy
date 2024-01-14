@@ -1,4 +1,4 @@
-Analysis of parameters indicating a loan could be defaulted
+## Analysis of parameters indicating a loan default
 
 
 ## Table of Contents
