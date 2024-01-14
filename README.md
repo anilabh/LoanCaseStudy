@@ -1,5 +1,4 @@
-# Project Name
-> Analysis of parameters indicating a loan being sanctioned could be defaulted
+Analysis of parameters indicating a loan could be defaulted
 
 
 ## Table of Contents
